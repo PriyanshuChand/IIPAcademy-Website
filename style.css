@@ -1,0 +1,361 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.main {
+    width: 1000px;
+    margin: auto;    
+}
+.row1{
+    height: 186px;
+    width: auto;
+    background-image: url(images/headerbg.jpg);
+}
+.row1c1{
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.row1c2{
+    float: left;
+    width: 350px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 18px;
+    color: #00618a;
+    font-weight: bold;
+}
+.row1c3{
+    float: right;
+    width: 296px;
+    height: 122px;
+    background: url(images/topcontactbg.png);
+    margin: 20px 50px 0 0;
+    padding-top: 10px;
+    text-align:center;
+}
+.text1 {
+font-size: 24px;
+}
+.text2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+.text3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.row2{
+    width: 1000px;
+    height: 50px;
+    background-image: url(images/menubg.jpg);
+    font-weight: bold;
+}
+.row2c1{
+    background-image: url(images/menubackground.png);
+    height: 31px;
+    width: 127px;
+    float: left;
+    margin: 10px 15px 0 80px ;
+    text-align: center;
+    padding-top: 13px;
+}
+.row2c2 {
+    float: left;
+    background-image: url(images/menubackground.png);
+    height: 31px;
+    width: 127px;
+    margin: 10px 15px 0 0;
+    padding-top: 13px;
+    text-align: center;
+}
+.row2c3{
+    float: left;
+    background-image: url(images/menubackground.png);
+    height: 31px;
+    width: 127px;
+    padding-top: 13px;
+    text-align: center;
+    margin: 10px 15px 0 0;
+
+}
+.row2c4{
+    float: left;
+    background-image: url(images/menubackground.png);
+    height: 31px;
+    width: 127px;
+    padding-top: 13px;
+    text-align: center;
+    margin: 10px 15px 0 0;
+
+}
+.row2c5{
+    float: left;
+    background-image: url(images/menubackground.png);
+    height: 31px;
+    width: 127px;
+    padding-top: 13px;
+    text-align: center;
+    margin: 10px 15px 0 0;
+
+}
+.row2c6{
+    float: left;
+    background-image: url(images/menubackground.png);
+    height: 31px;
+    width: 127px;
+    padding-top: 13px;
+    text-align: center;
+    margin: 10px 15px 0 0;
+
+}
+.row3 {
+    width: 1000px;
+    height: 250px;
+}
+.row3Left{
+    width: 220px;
+    height: 250px;
+    float: left;
+    margin: 5px 0 0 15px;
+    font-weight: bold;
+}
+.row3c1{
+    height: 30px;
+    width: 210px;
+    background-image: url(images/leftmenubg.png);
+    text-align: center;
+    padding-top: 10px;
+}
+.row3c2{
+    height: 30px;
+    width: 210px;
+    background-image: url(images/leftmenubg.png);
+    text-align: center;
+    padding-top: 10px;
+}
+.row3c3{
+    height: 30px;
+    width: 210px;
+    background-image: url(images/leftmenubg.png);
+    text-align: center;
+    padding-top: 10px;
+}
+.row3c4{
+    height: 30px;
+    width: 210px;
+    background-image: url(images/leftmenubg.png);
+    text-align: center;
+    padding-top: 10px;
+}
+.row3c5{
+    height: 30px;
+    width: 210px;
+    background-image: url(images/leftmenubg.png);
+    text-align: center;
+    padding-top: 10px;
+}
+.row3c6{
+    height: 30px;
+    width: 210px;
+    background-image: url(images/leftmenubg.png);
+    text-align: center;
+    padding-top: 10px;
+}
+.row3Right {
+    height: 250px;
+    width: 744px;
+    margin: 5px 0 0 5px ;
+    float: left;
+}
+.row4 {
+    width: 1000px;
+    height: 200px;
+    margin-top: 20px;
+}
+.row4c1{
+    background-image: url(images/whybg.jpg);
+    width: 210px;
+    height: 189px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    float: left;
+}
+.row4c1 h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+.row4c1 ol {
+    font-size: 16px;
+}
+.row4c2 {
+    width: 350px;
+    height: 195px;
+    background-color: #fdc059;
+    float: left;
+    margin-right: 12px;
+    border: 1px solid white;
+}
+.row4c2 div {
+    margin: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.row5 {
+    background-image: url(images/footermenubg.jpg);
+    width: 970px;
+    height: 30px;
+    padding-top: 15px;
+    margin: 20px 15px 0 15px;    
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* About Us CSS */
+.row3RightAbout {
+    background-color: white;
+    float: left;
+    width: 710px;
+    height: 520px;
+    margin: 10px 0 0 0;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+}
+.footer {
+    background-image: url(images/footermenubg.jpg);
+    width: 970px;
+    height: 33px;
+    padding-top: 15px;
+    margin: 0px 15px 10px 15px;    
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.row3RightAbout p ol {
+    font-size: 17px;
+}
+.row3AboutUs {
+    height: 600px;
+}
+
+/* courses css */
+
+.row3Courses {
+    height: 300px;
+}
+.row3RightCourses {
+    background-color:white;
+    height: 220px;
+    width: 700px;
+    float: left;
+    padding: 20px;
+    margin: 8px;
+}
+.row3Courses ol {
+    color: gray;
+}
+
+/* gallery css */
+.row3Gallery {
+    height: 640px;
+}
+.row3RightGallery {
+    background-color: #fff;
+    float: left;
+    height: 570px;
+    width: 730px;
+    padding: 20px 0 20px 20px;
+    margin-top: 10px;
+}
+.row3RightGallery img {
+    width: 200px;
+    height: 150px;
+    margin: 0 40px 20px 0;
+}
+.row3RightGallery h1 {
+    margin-bottom: 20px;
+}
+/* contact us */
+.row3Contact{
+    height: 340px;
+}
+.row3RightContact {
+    background-color: #fff;
+    float: left;
+    height: 260px;
+    width: 710px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.row3RightContact p {
+    font-size: 18px;
+    font-weight: bold;
+    color: gray;
+    
+}
+.phone, .mobile, .email, .website {
+    margin-bottom: 20px;
+    font-size: 17px;
+} 
+h4 {
+    margin: 10px;
+    color: white;
+    text-decoration: underline;
+}
+/* enquiry css */
+.row3-enquiry {
+    width: 1000px;
+    height: 710px;
+}
+.row3Right-enquiry {
+    background-color: #fff;
+    float: left;
+    width: 710px;
+    height: 630px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.row3Right-enquiry h1 {
+    margin-bottom: 20px;
+}
+.form-row {
+    margin-bottom: 20px;
+}
+.form-label{
+    float: left;
+    width: 100px;
+    font-size: 12px;
+}
+.input-area {
+    width: 200px;
+}
+.form-input {
+    font-size: 12px;
+}
+textarea {
+    width: 200px;
+    height: 100px;
+    resize: none;
+}
+.btn {
+    background-color: rgb(61, 191, 243);
+    padding: 7px 25px ; 
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
